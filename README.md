@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" height="120px"/>
-
+  <h1> Белянин Иван </h1>
 
   <div id="badges" align="center">
     <a href="your-linkedin-URL">
@@ -12,12 +12,24 @@
     <a href="https://career.habr.com/belyaninivanr">
       <img src="https://img.shields.io/badge/Habr-gray?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
     </a>
+    <a href="http://t.me/BelyaninIvan">
+      <img src="https://img.shields.io/badge/Telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=BelyaninIvan&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
+<div id="main">
+  <h2> Обо мне: </h2>
+  
+  - :computer: Занимаюсь web-разработкой и активно изучаю актуальные технологии в этой области;
+  
+  - :technologist: На данный момент работаю в сервисе "Яндекс.Практикум" на должности код-ревьюера;
+  
+  - :student: Помимо работы совершенствую свои знания в области веб-разработки и не забываю про практическую составляющую, реализуя проекты различной сложности;
+  
+  - :zap: В своё свободное время люблю путешествовать и делать красивые фотографии. 
+</div>
 
 <!--
 **BelyaninIvan/BelyaninIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
