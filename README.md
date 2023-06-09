@@ -19,7 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=BelyaninIvan&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="main">
+---
+
+<div id="aboutMe">
   <h2> Обо мне: </h2>
   
   - :computer: Занимаюсь web-разработкой и активно изучаю актуальные технологии в этой области;
@@ -31,6 +33,21 @@
   - :zap: В своё свободное время люблю путешествовать и делать красивые фотографии. 
 </div>
 
+---
+
+<div id="languagesAndTools">
+  <h2> :hammer_and_wrench: Используемые мной языки и инструменты: </h2>
+  <h4> Разметка: </h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <h4> Стилизация: </h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <h4> Разработка фукционала: </h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+</div>  
 <!--
 **BelyaninIvan/BelyaninIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
