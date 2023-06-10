@@ -47,6 +47,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+  <h4> Работа с базами данных: </h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <h4> Остальное: </h4>
+  
+  - :desktop_computer: Проекты размещаю на GitHub и Bitbucket;
+  
+  - :desktop_computer: При разработке использую такие методологии, как ООП и БЭМ;
 </div>  
 <!--
 **BelyaninIvan/BelyaninIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
